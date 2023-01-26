@@ -16,7 +16,7 @@ def import_df() -> pd.DataFrame:
     return df_imp
 
 
-def metrics(data: pd.DataFrame, labels: np.ndarray) -> list[float]:
+def metrics(data: pd.DataFrame, labels: np.ndarray) -> list:
     """
     calculates metrics silhouette, calinski and davies for clustering
 
