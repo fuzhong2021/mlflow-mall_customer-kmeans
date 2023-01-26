@@ -75,6 +75,7 @@ def main():
     csv_path = 'data\Mall_Customers.csv'
 
     df = build_df(csv_path) #build new csv
+    os.makedirs('data/out', exist_ok=True)  # create out directory
     df.to_csv('data/out/clean_mall_customer.csv', index=False)  # put df in folder out
 
 
