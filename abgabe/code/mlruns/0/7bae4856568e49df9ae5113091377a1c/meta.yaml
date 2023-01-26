@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/7bae4856568e49df9ae5113091377a1c/artifacts
+end_time: 1674710433594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bae4856568e49df9ae5113091377a1c
+run_name: crawling-gnat-625
+run_uuid: 7bae4856568e49df9ae5113091377a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710430850
+status: 3
+tags: []
+user_id: furka

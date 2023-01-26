@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/34fcdb5f4e4f4213902127ec87e8116a/artifacts
+end_time: 1674710452534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34fcdb5f4e4f4213902127ec87e8116a
+run_name: adaptable-wren-724
+run_uuid: 34fcdb5f4e4f4213902127ec87e8116a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710450107
+status: 3
+tags: []
+user_id: furka

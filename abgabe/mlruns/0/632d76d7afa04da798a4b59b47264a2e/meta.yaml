@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/632d76d7afa04da798a4b59b47264a2e/artifacts
+end_time: 1674710421050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 632d76d7afa04da798a4b59b47264a2e
+run_name: delicate-perch-885
+run_uuid: 632d76d7afa04da798a4b59b47264a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710418684
+status: 3
+tags: []
+user_id: furka

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/9eabc87a0061471686e509cc603a2e00/artifacts
+end_time: 1674710466033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eabc87a0061471686e509cc603a2e00
+run_name: carefree-shrew-629
+run_uuid: 9eabc87a0061471686e509cc603a2e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710463464
+status: 3
+tags: []
+user_id: furka

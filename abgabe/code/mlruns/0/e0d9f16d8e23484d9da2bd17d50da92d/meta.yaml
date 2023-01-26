@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/e0d9f16d8e23484d9da2bd17d50da92d/artifacts
+end_time: 1674710450093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0d9f16d8e23484d9da2bd17d50da92d
+run_name: efficient-cod-653
+run_uuid: e0d9f16d8e23484d9da2bd17d50da92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710447304
+status: 3
+tags: []
+user_id: furka

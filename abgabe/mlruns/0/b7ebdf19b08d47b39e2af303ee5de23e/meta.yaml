@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/b7ebdf19b08d47b39e2af303ee5de23e/artifacts
+end_time: 1674710425750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7ebdf19b08d47b39e2af303ee5de23e
+run_name: sincere-turtle-162
+run_uuid: b7ebdf19b08d47b39e2af303ee5de23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710423411
+status: 3
+tags: []
+user_id: furka

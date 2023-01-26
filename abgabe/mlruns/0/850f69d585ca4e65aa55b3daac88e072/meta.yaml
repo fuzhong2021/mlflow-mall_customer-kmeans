@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/furka/OneDrive/Documents/Studium/DataExploration/abgabe/mlruns/0/850f69d585ca4e65aa55b3daac88e072/artifacts
+end_time: 1674710430839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 850f69d585ca4e65aa55b3daac88e072
+run_name: gaudy-fox-224
+run_uuid: 850f69d585ca4e65aa55b3daac88e072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710428177
+status: 3
+tags: []
+user_id: furka
