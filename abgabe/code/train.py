@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.metrics import calinski_harabasz_score, davies_bouldin_score, silhouette_score
 from sklearn.model_selection import train_test_split
+from typing import List
 
 
 def import_df() -> pd.DataFrame:
@@ -16,7 +17,7 @@ def import_df() -> pd.DataFrame:
     return df_imp
 
 
-def metrics(data: pd.DataFrame, labels: np.ndarray) -> list[float]:
+def metrics(data: pd.DataFrame, labels: np.ndarray) -> List[float]:
     """
     calculates metrics silhouette, calinski and davies for clustering
 
@@ -29,7 +30,7 @@ def metrics(data: pd.DataFrame, labels: np.ndarray) -> list[float]:
             davies_bouldin_score(data, labels)]
 
 
-def split_df(data: pd.DataFrame) -> list[pd.DataFrame]:
+def split_df(data: pd.DataFrame) -> List[pd.DataFrame]:
     """
     splits the dataframe into 3 dataframes at random, with distribution:
     train: 70%, validation: 20%, test: 10%
@@ -74,9 +75,11 @@ def train(X: pd.DataFrame, X_val: pd.DataFrame, n_clusters: int = 10):
 
 
 def main():
+    #import df, get train, val and test data
     df = import_df()
     X_train, X_test, X_val = split_df(data = df[['ageincome','spending_score']])
 
+    #start training in loop for clusters between 2 and 20
     for i in range(20, 1, -1):
         train(X=X_train, X_val=X_val, n_clusters=i)
 
